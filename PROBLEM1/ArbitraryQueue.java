@@ -1,4 +1,4 @@
-package Assignment1.src;
+package PROBLEM1;
 
 public class ArbitraryQueue {
 
